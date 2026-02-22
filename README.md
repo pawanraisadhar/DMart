@@ -1,8 +1,10 @@
 # DMart
 D_Mart
-
 📊 Dmart Sales Analysis – Power BI Project
-
+## DashBoard-->
+- <a href="https://github.com/pawanraisadhar/DMart/blob/main/Dmart.pbix">DashBoard Viwe</a> 
+- DashBoard image<a href="https://github.com/pawanraisadhar/DMart/blob/main/DashBoard-Image"> DashBoard image</a>
+(![DMart-DashBoard](https://github.com/pawanraisadhar/DMart/blob/main/DashBoard-Image))
 This project focuses on analyzing Dmart sales data using Power BI to uncover key business insights. The dashboard provides a comprehensive overview of sales performance, profit trends, regional performance, and product category analysis through interactive visualizations and KPI tracking.
 
 🎯 Project Objectives
